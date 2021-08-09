@@ -1,0 +1,9 @@
+name: SkyblockUI
+main: ThoDak\Main
+author: ThoDak
+api: [3.0.0]
+version: 1.5
+
+commands:
+  sbui:
+    description: "Open Menu SkyBlock"

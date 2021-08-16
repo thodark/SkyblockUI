@@ -90,7 +90,7 @@ class main extends PluginBase
 		$form->addbutton("Leave island");	
 		$form->addbutton("Delete island");
 		$form->addbutton("Kick someone from your island");
-	    $form->addbutton("Promote player");
+	        $form->addbutton("Promote player");
 		$form->addbutton("Setspawn island ");
 		$form->addbutton("Give your island for someone");
 		$form->addbutton("Back to hub"); 
